@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["Decodable","Encodable"],"enum":["Class","ErrorKind"],"struct":["Decoder","Encoder","Error","Length","SimpleTag","Slice","Tag","TaggedValue"],"trait":["Container","Decodable","Encodable","EncodableHeapless","TagLike","Tagged"],"type":["Result","TaggedSlice"]};

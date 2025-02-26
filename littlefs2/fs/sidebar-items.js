@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FileType"],"fn":["u32_result"],"struct":["Allocation","Attribute","DirEntry","File","FileAllocation","FileOpenFlags","Filesystem","Metadata","OpenOptions","ReadDir","ReadDirAllocation"],"type":["Bytes"]};

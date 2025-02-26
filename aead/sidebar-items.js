@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["consts"],"struct":["Error"],"trait":["AeadCore","AeadInPlace","AeadMutInPlace","Buffer","KeyInit","KeySizeUser"],"type":["Key","Nonce","Result","Tag"]};

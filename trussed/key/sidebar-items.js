@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Kind","Secrecy"],"struct":["Bytes","Flags","Info","Key"],"type":["Material","SerializedKeyBytes"]};

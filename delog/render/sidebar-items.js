@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["default","render_arguments","render_record"],"struct":["DefaultRenderer","RipgrepRenderer"]};
